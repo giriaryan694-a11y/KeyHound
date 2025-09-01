@@ -58,7 +58,7 @@ pip install requests google-generativeai pyfiglet termcolor colorama
 ```
 
 ## 🔑 API Key Setup 
-1.Get a Google Gemini API Key → https://aistudio.google.com/
+1.Get a Google Gemini API Key → https://aistudio.google.com/.
 2.Create a file named key.txt in the project folder.
 3.Paste your Gemini key inside:
 ```
