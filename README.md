@@ -31,6 +31,10 @@ It combines:
 - ✨ Signature → **⚡ Made by Aryan Giri ⚡**
 
 ---
+## Screenshots
+ ![KeyHound Demo](screenshots/screenshot1.png)
+ ![KeyHound Demo](screenshots/screenshot2.png)
+---
 
 ## 📦 Installation
 
