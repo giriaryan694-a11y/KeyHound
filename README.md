@@ -1,5 +1,5 @@
 # 🐺 KeyHound – Hunter of Exposed Keys & Secrets  
-
+![KeyHound Demo](logo.png)
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Made%20By-Aryan%20Giri-magenta?style=for-the-badge"/>
